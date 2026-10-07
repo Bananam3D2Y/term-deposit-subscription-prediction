@@ -41,9 +41,7 @@ Preprocessing was fit on the full dataset before the split (a course requirement
 ## Repository Structure
 ```
 .
-├── src/        # add the R pipeline script here
-├── images/     # add key figures here (see report)
-├── report/     # full write-up (PDF)
+├── report/     # full write-up (PDF), including all figures
 ├── LICENSE
 └── README.md
 ```
